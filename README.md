@@ -18,7 +18,7 @@ Objetivos Especificos
 
 - Elaborar una aplicación con la plataforma App Inventor que me permita acceder a mi ubicación actual con el sitio web google maps. 
   
-- Establecer una conexión mediante el servicio web de google maps que muestre la longitud, la latitud y el lugar donde me encuentro. 
+- Establecer una conexión mediante el servicio web de google maps que muestre la longitud, latitud y el lugar donde me encuentro. 
 
 **2 . MARCO TEÓRICO**
 
@@ -56,10 +56,45 @@ Para poder utilizarlo es muy facil, no es necesario estar registrado. Basta con 
 
 **3 . EXPLICACION Y DESARROLO DEL PROYECTO**
 
-Para dar comienzo a la elaboración de la aplicación android es necesario tener conocimiento de cómo funciona la plataforma online App Inventor, y el sitio web google maps como se menciona en los pasos a continuación:
+Para dar comienzo a la elaboración de la aplicación android es necesario tener conocimiento de cómo funciona la plataforma online App Inventor, y el sitio web google maps como se menciona a continuación:
 
-Paso 1. Abrir tu navegador de preferencia e ingresar a la pagina principal de App Inventor, 
-Paso 2. Descargar e Instalar e
+**PASOS A SEGUIR**
+
+Paso 1. Abrir tu navegador de preferencia e ingresar a la pagina principal de App Inventor, donde se podra encontrar diversa informacion del funcionamiento de la misma.
+
+Paso 2. Dar click en el botón "Crea aplicaciones" donde se podrá empezar a crear diversidad de proyectos de acuerdo al usuario.
+
+Paso 3. Procedemos a crear un nuevo proyecto con su respectivo nombre, consecuentemente se abre la interfaz de App Inventor donde se podra encontrar un apartado de diseño y otro de bloques el mismo dque sirve para programar las funciones de la aplicación.
+
+Paso 4. Nos colocamos en el apartado de diseño donde se encuentran diversas herramientras que el usuario puede seleccionar segun el diseño de su aplicación, en este caso utilizamos para la pantalla #1 lo siguiente:
+
+- Imagen (Permite insertar una imagen cualquiera a su app)
+
+- Reloj (Sirve como temporizador para el cambio a la siguiente pantalla)
+
+- Sonido (Permite incluir un sonido cuando inicia la app)
+
+![5](https://user-images.githubusercontent.com/84453441/129116658-42bfc798-1f0c-4cec-b21e-0a4b52614eb9.png)
+
+Paso 5. Ahora pasamos a la parte de la programacion de bloques donde todo va conforme a lo requerido que realice la app.
+
+![6](https://user-images.githubusercontent.com/84453441/129117186-ecc15dfc-5a80-4a51-bbb1-d166674d7d54.png)
+
+Paso 6. Continuando con el procedimiento creamos una pantalla #2 la cual nos servira para mostrar la longitud, latitud y el mapa con su respectiva ubicación, en este apartado utilizamos lo siguiente:
+
+- Etiqueta (Sirve para nombrar un aspecto que se vaya a utilizar)
+
+- Botón (Se utiliza para dar una orden es decir si se desea realizar una operación o en este desplegar el mapa)
+
+- Mapa (Es un componente que ayuda a dar la ubicación donde se encuentra el usuario)
+
+- Marcador (Es un icono de posición que refleja el lugar exacto de la ubicación)
+
+- Sensor de ubicación (Es un componente que ofrece informacion de la ubicación del usuario tales como longitud y latitud)
+
+![7](https://user-images.githubusercontent.com/84453441/129117559-0d479262-709a-44c5-afd5-fc857ef62f1b.png)
+
+Paso 7.  
 
 
 
