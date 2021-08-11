@@ -16,9 +16,9 @@ Objetivos Generales
 
 Objetivos Especificos
 
--Elaborar una aplicación con la plataforma App Inventor que me permita acceder a mi ubicación actual con el sitio web google maps. 
+- Elaborar una aplicación con la plataforma App Inventor que me permita acceder a mi ubicación actual con el sitio web google maps. 
   
--Elaborar conexión mediante la aplicacion app inventor con un sitio web
+- Establecer una conexión mediante el servicio web de google maps que muestre la longitud, la latitud y el lugar donde me encuentro. 
 
 **2 . MARCO TEÓRICO**
 
@@ -32,19 +32,19 @@ AppInventor es un entorno de desarrollo de software creado por Google para la el
 
 Como ventajas a la hora de programar con AppInventor, encontramos las siguientes:
 
--Se pueden crear aplicaciones por medio de bloques de manera intuitiva y grafica, sin necesidad de saber código de programación.
+- Se pueden crear aplicaciones por medio de bloques de manera intuitiva y grafica, sin necesidad de saber código de programación.
 
--Se puede acceder en cualquier momento y cualquier lugar siempre que estemos conectados a internet.
+- Se puede acceder en cualquier momento y cualquier lugar siempre que estemos conectados a internet.
 
--Su interfaz de uso es dinamica y facil de usar.
+- Su interfaz de uso es dinamica y facil de usar.
 
 **Desventajas**
 
--No genera código Java para desarrollos más profundos.
+- No genera código Java para desarrollos más profundos.
 
--Solo se puede desarrollar para Android.
+- Solo se puede desarrollar para Android.
 
--Para usuarios de alto nivel resulta ser muy sencilla y no posee los recusos para realizar proyectos mas grandes. 
+- Para usuarios de alto nivel resulta ser muy sencilla y no posee los recusos para realizar proyectos mas grandes. 
 
 **Google Maps** 
 
@@ -53,7 +53,6 @@ Es un servidor de aplicaciones de mapas en la web, ofrece imágenes de mapas des
 Para poder utilizarlo es muy facil, no es necesario estar registrado. Basta con introducir una búsqueda en el cuadro correspondiente, que puede ser una dirección completa, el nombre de un negocio, una estación de metro, unas coordenadas, etc. El punto se muestra señalado con un icono en un mapa convencional que se puede alejar o acercar a conveniencia.
 
 ![descarga](https://user-images.githubusercontent.com/84453441/129105621-ab797a16-73bb-499e-8afb-98294e656efb.png)
-
 
 **3 . EXPLICACION Y DESARROLO DEL PROYECTO**
 
