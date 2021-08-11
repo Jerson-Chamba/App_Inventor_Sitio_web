@@ -71,10 +71,10 @@ Paso 2. Descargar e Instalar e
 
 **4 . SITIO DE LA APP**
 
-- http://ai2.appinventor.mit.edu/?locale=es_ES#4728527714123776
+ - http://ai2.appinventor.mit.edu/?locale=es_ES#4728527714123776
 
 **5 . BIBLIOGRAFÍA**
 
-- https://appinventor.mit.edu/
-- https://www.google.com.ec/maps
-- https://codeweek.eu/docs/spain/guia-iniciacion-app-inventor.pdf
+ - https://appinventor.mit.edu/
+ - https://www.google.com.ec/maps
+ - https://codeweek.eu/docs/spain/guia-iniciacion-app-inventor.pdf
