@@ -10,20 +10,20 @@ Objetivos Especificos
 
 
 
-**2.MARCO TEORICO**
+**2 . MARCO TEORICO**
 
 
 
 
-**3.EXPLICACION Y DESARROLO DEL PROYECTO**
+**3 . EXPLICACION Y DESARROLO DEL PROYECTO**
 
 
 
 
-**5. CONCLUSIONES**
+**5 . CONCLUSIONES**
 
 
 
-**6.BIBLIOGRAFÍA**
+**6 . BIBLIOGRAFÍA**
 
-Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
+
