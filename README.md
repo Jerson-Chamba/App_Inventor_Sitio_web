@@ -5,8 +5,10 @@ AUTOR: JERSON CHAMBA
 **1 . OBJETIVOS**
 
 Objetivos Generales
-- Establecer una conexión mediante la aplicacion app inventor con un sitio web 
+-Establecer una conexión mediante la aplicacion app inventor con un sitio web 
+
 Objetivos Especificos
+
 
 **2 . EXPLICACION Y DESARROLO DEL PROYECTO**
 
