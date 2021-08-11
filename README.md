@@ -20,8 +20,8 @@ Objetivos Especificos
 **¿Qué es App Inventor?**
 
 AppInventor es un entorno de desarrollo de software creado por Google para la elaboración de aplicaciones destinadas al sistema operativo de Android. El lenguaje es gratuito y se puede acceder fácilmente de la web. 
-![Mit_app_inventor](https://user-images.githubusercontent.com/84453441/129104298-5304effa-fe17-4893-a730-1b6a268850eb.png)
 
+![Mit_app_inventor](https://user-images.githubusercontent.com/84453441/129104298-5304effa-fe17-4893-a730-1b6a268850eb.png)
 
 **Ventajas**
 
@@ -46,7 +46,8 @@ Como ventajas a la hora de programar con AppInventor, encontramos las siguientes
 Es un servidor de aplicaciones de mapas en la web, ofrece imágenes de mapas desplazables, así como fotografías por satélite del mundo e incluso la ruta entre diferentes ubicaciones o imágenes a pie de calle entre otras.
 
 Para poder utilizarlo es muy facil, no es necesario estar registrado. Basta con introducir una búsqueda en el cuadro correspondiente, que puede ser una dirección completa, el nombre de un negocio, una estación de metro, unas coordenadas, etc. El punto se muestra señalado con un icono en un mapa convencional que se puede alejar o acercar a conveniencia.
-![unnamed](https://user-images.githubusercontent.com/84453441/129104705-0252f0fa-b127-4b20-9ccc-0c668c021f16.jpg)
+
+<div align=”center”> [ Your content here ]</div> ![unnamed](https://user-images.githubusercontent.com/84453441/129104705-0252f0fa-b127-4b20-9ccc-0c668c021f16.jpg)
 
 **3 . EXPLICACION Y DESARROLO DEL PROYECTO**
 
