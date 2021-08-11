@@ -47,7 +47,7 @@ Es un servidor de aplicaciones de mapas en la web, ofrece imágenes de mapas des
 
 Para poder utilizarlo es muy facil, no es necesario estar registrado. Basta con introducir una búsqueda en el cuadro correspondiente, que puede ser una dirección completa, el nombre de un negocio, una estación de metro, unas coordenadas, etc. El punto se muestra señalado con un icono en un mapa convencional que se puede alejar o acercar a conveniencia.
 
-<div align=”center”> [ Your content here ]</div> ![unnamed](https://user-images.githubusercontent.com/84453441/129104705-0252f0fa-b127-4b20-9ccc-0c668c021f16.jpg)
+<div align=”center”> [ ![unnamed](https://user-images.githubusercontent.com/84453441/129104705-0252f0fa-b127-4b20-9ccc-0c668c021f16.jpg) ]</div> 
 
 **3 . EXPLICACION Y DESARROLO DEL PROYECTO**
 
