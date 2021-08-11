@@ -1,20 +1,24 @@
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
-# INFORME TRABAJO EXTRA (APP INVENTOR_SITIO WEB)
 
 AUTOR: JERSON CHAMBA
+
+MATERIA: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
+
+PROFESOR: ING. DARWIN ALULEMA
+
+# INFORME TRABAJO EXTRA (APP INVENTOR_SITIO WEB)
 
 **1 . OBJETIVOS**
 
 Objetivos Generales
 
--Ejemplo para conexión de una APP Android desarrollada en APP INVENTOR con un servicio web.
+- Realizar un ejemplo para conexión de una APP Android desarrollada en APP INVENTOR con un servicio web.
 
 Objetivos Especificos
 
--Elaborar una conexión mediante la aplicacion app inventor con un sitio web 
+-Elaborar una aplicación con la plataforma App Inventor que me permita acceder a mi ubicación actual con el sitio web google maps. 
   
-- 
--Elaborar
+-Elaborar conexión mediante la aplicacion app inventor con un sitio web
 
 **2 . MARCO TEÓRICO**
 
