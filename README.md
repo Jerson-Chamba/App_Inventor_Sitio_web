@@ -116,7 +116,11 @@ Observamos que la applicación funciona correctamente conforme a lo planteado.
 
 **3 . CONCLUSIONES**
 
-- La aplicacion es muy favorable
+- App Inventor tiene una interfaz bien estructurada y fácil de usar, induciendo a usuarios nuevos crear sus propios proyectos. 
+
+- Es recomendable continuar con este tipo de trabajos ya que en un futuro sería muy utilizado por jovenes emprendedores de la programación.
+
+- La aplicación funcionó correctamente conforme a lo planteado, pero sería una gran alternativa poder mejorar la interfaz de App Inventor a una interfaz más profesional.
 
 **4 . SITIO DE LA APP**
 
