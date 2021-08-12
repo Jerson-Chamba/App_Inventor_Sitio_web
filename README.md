@@ -56,7 +56,7 @@ Para poder utilizarlo es muy facil, no es necesario estar registrado. Basta con 
 
 **3 . EXPLICACIÓN Y DESARROLLO DEL PROYECTO**
 
-Para dar comienzo a la elaboración de la aplicación android es necesario tener conocimiento de cómo funciona la plataforma online App Inventor, y el sitio web google maps como se menciona a continuación:
+Para dar comienzo a la elaboración de la aplicación android es necesario tener conocimiento de cómo funciona la plataforma online App Inventor, y el sitio web google maps como se muestra a continuación:
 
 **PASOS A SEGUIR**
 
