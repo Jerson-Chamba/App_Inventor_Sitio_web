@@ -122,11 +122,8 @@ Observamos que la applicación funciona correctamente conforme a lo planteado.
 
 - La aplicación funcionó correctamente conforme a lo planteado, pero sería una gran alternativa poder mejorar la interfaz de App Inventor a una interfaz más profesional.
 
-**4 . SITIO DE LA APP**
 
-- http://ai2.appinventor.mit.edu/?locale=es_ES#4728527714123776
-
-**5 . BIBLIOGRAFÍA**
+**4 . BIBLIOGRAFÍA**
 
 - https://appinventor.mit.edu/
 - https://www.google.com.ec/maps
