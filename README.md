@@ -60,11 +60,11 @@ Para dar comienzo a la elaboración de la aplicación android es necesario tener
 
 **PASOS A SEGUIR**
 
-Paso 1. Abrir tu navegador de preferencia e ingresar a la pagina principal de App Inventor, donde se podra encontrar diversa informacion del funcionamiento de la misma.
+Paso 1. Abrir tu navegador de preferencia e ingresar a la pagina principal de App Inventor, donde se podra encontrar diversa información del funcionamiento de la misma.
 
-Paso 2. Dar click en el botón "Crea aplicaciones" donde se podrá empezar a crear diversidad de proyectos de acuerdo al usuario.
+Paso 2. Dar click en el botón "Crea aplicaciones" donde se podrá dar inicio a la creación de diversos proyectos de acuerdo al usuario.
 
-Paso 3. Procedemos a crear un nuevo proyecto con su respectivo nombre, consecuentemente se abre la interfaz de App Inventor donde se podra encontrar un apartado de diseño y otro de bloques el mismo dque sirve para programar las funciones de la aplicación.
+Paso 3. Procedemos a crear un nuevo proyecto con su respectivo nombre, consecuentemente se abre la interfaz de App Inventor donde se podrá encontrar un apartado de diseño y otro de bloques el mismo que sirve para programar las funciones de la aplicación.
 
 Paso 4. Nos colocamos en el apartado de diseño donde se encuentran diversas herramientras que el usuario puede seleccionar segun el diseño de su aplicación, en este caso utilizamos para la pantalla #1 lo siguiente:
 
