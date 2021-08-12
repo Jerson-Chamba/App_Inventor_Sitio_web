@@ -66,7 +66,7 @@ Paso 2. Dar click en el botón "Crea aplicaciones" donde se podrá dar inicio a 
 
 Paso 3. Procedemos a crear un nuevo proyecto con su respectivo nombre, consecuentemente se abre la interfaz de App Inventor donde se podrá encontrar un apartado de diseño y otro de bloques el mismo que sirve para programar las funciones de la aplicación.
 
-Paso 4. Nos colocamos en el apartado de diseño donde se encuentran diversas herramientras que el usuario puede seleccionar segun el diseño de su aplicación, en este caso utilizamos para la pantalla #1 lo siguiente:
+Paso 4. Nos colocamos en el apartado de diseño donde se encuentran las herramientras que el usuario puede seleccionar según el diseño de su aplicación, en este caso utilizamos para la pantalla #1 lo siguiente:
 
 - Imagen (Permite insertar una imagen cualquiera a su app)
 
@@ -76,21 +76,21 @@ Paso 4. Nos colocamos en el apartado de diseño donde se encuentran diversas her
 
 ![5](https://user-images.githubusercontent.com/84453441/129116658-42bfc798-1f0c-4cec-b21e-0a4b52614eb9.png)
 
-Paso 5. Ahora pasamos a la parte de la programacion de bloques donde todo va conforme a lo requerido que realice la app.
+Paso 5. Ahora pasamos a la parte de la programación de bloques donde todo va conforme a lo requerido que realice la app.
 
 ![6](https://user-images.githubusercontent.com/84453441/129117186-ecc15dfc-5a80-4a51-bbb1-d166674d7d54.png)
 
-Paso 6. Continuando con el procedimiento creamos una pantalla #2 la cual nos servira para mostrar la longitud, latitud y el mapa con su respectiva ubicación, en este apartado utilizamos lo siguiente:
+Paso 6. Continuando con el procedimiento creamos una pantalla #2 la cual nos servirá para mostrar la longitud, latitud y el mapa con su respectiva ubicación, en este apartado utilizamos lo siguiente:
 
 - Etiqueta (Sirve para nombrar un aspecto que se vaya a utilizar)
 
-- Botón (Se utiliza para dar una orden es decir si se desea realizar una operación o en este desplegar el mapa)
+- Botón (Se utiliza para dar una orden es decir si se desea realizar una operación o en este caso desplegar el mapa)
 
 - Mapa (Es un componente que ayuda a dar la ubicación donde se encuentra el usuario)
 
-- Marcador (Es un icono de posición que refleja el lugar exacto de la ubicación)
+- Marcador (Es un icono de posición que refleja el lugar exacto de la ubicación del usuario)
 
-- Sensor de ubicación (Es un componente que ofrece informacion de la ubicación del usuario tales como longitud y latitud)
+- Sensor de ubicación (Es un componente que ofrece información de la ubicación del usuario tales como longitud y latitud)
 
 ![7](https://user-images.githubusercontent.com/84453441/129117559-0d479262-709a-44c5-afd5-fc857ef62f1b.png)
 
@@ -108,7 +108,7 @@ Simulación de la Pantalla #2:
 
 ![3](https://user-images.githubusercontent.com/84453441/129118658-5e87d497-bf28-4730-a0d2-073b64ff9fa6.png)
 
-Finalmente ejecutamos la aplicación, primero activamos la ubicación del dispositivo la misma que hara cargar los datos respectivos de latitud y longitud de la ubicación del usuario, y luego damos click en ver mapa para desplegar el mismo hacia el lugar en donde se encuentra ubicado el usuario.
+Finalmente ejecutamos la aplicación, primero activamos la ubicación del dispositivo la misma que hará cargar los datos respectivos de latitud y longitud de la ubicación del usuario, y luego damos click en ver mapa para desplegar el mismo hacia el lugar en donde se encuentra ubicado el usuario.
 
 ![4](https://user-images.githubusercontent.com/84453441/129118862-d0da6c93-ebc1-4e49-a60c-25f4f47afde7.png)
 
