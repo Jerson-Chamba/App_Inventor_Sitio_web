@@ -24,7 +24,7 @@ Objetivos Especificos
 
 **¿Qué es App Inventor?**
 
-AppInventor es un entorno de desarrollo de software creado por Google para la elaboración de aplicaciones destinadas al sistema operativo de Android. El lenguaje es gratuito y se puede acceder fácilmente de la web. 
+App Inventor es un entorno de desarrollo de software creado por Google para la elaboración de aplicaciones destinadas al sistema operativo de Android. El lenguaje es gratuito y se puede acceder fácilmente de la web. 
 
 ![Mit_app_inventor](https://user-images.githubusercontent.com/84453441/129104298-5304effa-fe17-4893-a730-1b6a268850eb.png)
 
