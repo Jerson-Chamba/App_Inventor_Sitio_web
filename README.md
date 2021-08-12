@@ -30,7 +30,7 @@ App Inventor es un entorno de desarrollo de software creado por Google para la e
 
 **Ventajas**
 
-Como ventajas a la hora de programar con AppInventor, encontramos las siguientes:
+Como ventajas a la hora de programar con App Inventor, encontramos las siguientes:
 
 - Se pueden crear aplicaciones por medio de bloques de manera intuitiva y grafica, sin necesidad de saber código de programación.
 
