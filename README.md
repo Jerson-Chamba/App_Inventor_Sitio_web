@@ -94,10 +94,25 @@ Paso 6. Continuando con el procedimiento creamos una pantalla #2 la cual nos ser
 
 ![7](https://user-images.githubusercontent.com/84453441/129117559-0d479262-709a-44c5-afd5-fc857ef62f1b.png)
 
-Paso 7.  
+Paso 7. Se procede a la debida programación de bloques y se lo realizó de la siguiente manera:
 
+![8](https://user-images.githubusercontent.com/84453441/129118284-2a05578c-347c-49a4-a211-74667a9c77a5.png)
 
+Paso 8. Ya concluido el diseño y la programación de bloques de la aplicación procedemos a descargar, instalar y ejecutar el emulador de App Inventor (aiStarter) el cual nos ayuda a simular todo lo realizado en un dispositivo móvil android como se muestra a continuación:
 
+Simulación de la pantalla #1:
+
+![11](https://user-images.githubusercontent.com/84453441/129118551-955adfc4-6b42-4d03-908e-693ed1a54392.png)
+
+Simulación de la Pantalla #2:
+
+![3](https://user-images.githubusercontent.com/84453441/129118658-5e87d497-bf28-4730-a0d2-073b64ff9fa6.png)
+
+Finalmente ejecutamos la aplicación, primero activamos la ubicación del dispositivo la misma que hara cargar los datos respectivos de latitud y longitud de la ubicación del usuario, y luego damos click en ver mapa para desplegar el mismo hacia el lugar en donde se encuentra ubicado el usuario.
+
+![4](https://user-images.githubusercontent.com/84453441/129118862-d0da6c93-ebc1-4e49-a60c-25f4f47afde7.png)
+
+Observamos que la applicación funciona correctamente conforme a lo planteado.
 
 **3 . CONCLUSIONES**
 
